@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+
+.main {
+    background-image: linear-gradient(to bottom right, rgb(81, 30, 139), rgb(172, 0, 143));
+    color: rgb(24, 24, 24);
+    padding: 400px;
+    color: white;
+    font-family: "consolas";
+    font-size: 30px;
+}
